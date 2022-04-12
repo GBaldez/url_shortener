@@ -31,4 +31,9 @@ O Objeto JSON enviado para API deve seguir este padrão:
   "originURL": "url"
 }
 ```
+## Agradecimentos
+[Digital Innovation One](https://www.dio.me/)
+
+[Alexia Dorneles](https://www.linkedin.com/in/alexiapereira/)
+
 Feito com carinho ♥
